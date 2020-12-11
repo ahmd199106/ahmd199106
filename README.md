@@ -1,13 +1,12 @@
 ### Hi there, I'm Ahmed Abdul Khader .
 
 ## I'm  A Front-End Web Developer based in Dubai .
-- 🔭 I’m currently working as a Front-End Developer for a start-up based in dubai.
-- 🔭 Some of my current projects include a Job-portal and a car Hire/Sale .
+- 🔭  I’m currently working as a Front-End Developer for a start-up based in dubai.
+- 🔭  Some of my current projects include a Job-portal and a car Hire/Sale .
      -  And they rely Heavily on React, Material UI and Strapi/Firebase .
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play Football and teach others to 
-   code(Folks say I can't shut up about it)
+- 🌱  I’m currently learning everything 🤣
+- 🥅  2021 Goals: Contribute more to Open Source projects
+- ⚡  Fun fact: I love to play Football and teach others to code(Folks say I can't shut up about it)
 
 ### Connect with me:
 
