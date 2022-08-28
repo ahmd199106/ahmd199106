@@ -1,14 +1,20 @@
 ### Hi there, I'm Ahmed Abdul Khader .
 
-## I'm  A Front-End Web Developer based in Dubai .
-- 🔭  I’m currently working as a Front-End Developer for a start-up based in dubai.
-- 🔭  Some of my current projects include a Job-portal and a car Hire/Sale .
-     -  And they rely Heavily on React, Material UI and Strapi/Firebase .
+## I'm  A Front-End / Full-Stack Web Developer based in London .
+- 🔭  I’m currently in the look-out for a Junior Front-End / Full Stack Developer for the London Area and also available to work remote throughout the UK. Im also legally eligible to work in the UK and will not require a visa / sponsorship.
+- Most recently I've been enjoying playing with Typescript and levelling up my testing game with Mocha and Chai. My tech stack includes (but is not limited to) React, Redux, React Query, Express, MongoDB, Node.js, TypeScript, Firebase and even UI Frameworks like Webflow and Well versed in various google analytics and Data-Visualisation
+- 🔭  Some of my side projects include an E-commerce website, A Meet-up website, a Job-portal and a car Hire/Sale .
+     -  And they rely Heavily on React, Nextjs, Chakra UI, Material UI, Strapi, Firebase, MongoDB etc. 
 - 🌱  I’m currently learning everything 🤣
-- 🥅  2021 Goals: Contribute more to Open Source projects
+- 🥅  2022 Goals: Contribute more to Open Source projects
 - ⚡  Fun fact: I love to play Football and teach others to code(Folks say I can't shut up about it)
 
 ### Connect with me:
+
+<a href="https://www.linkedin.com/in/ahmed-abdul-khader-a00889122/">🤘🏻 LinkedIn 🤘🏻</a>
+
+<a href="https://ahmd199106.github.io/"> 🤘🏻 My Portfolio Website 🤘🏻</a>
+
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
