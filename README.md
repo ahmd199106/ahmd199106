@@ -4,7 +4,7 @@
 - 🔭  I’m currently in the look-out for a Junior Front-End / Full Stack Developer for the London Area and also available to work remote throughout the UK. Im also legally eligible to work in the UK and will not require a visa / sponsorship.
 - Most recently I've been enjoying playing with Typescript and levelling up my testing game with Mocha and Chai. My tech stack includes (but is not limited to) React, Nextjs, Redux, React Query, Express, MongoDB, Node.js, TypeScript, Firebase and even Low-code UI Frameworks like Webflow and Well versed in various google analytics and Data-Visualisation.
 - 🔭  Some of my side projects include an E-commerce website, A Meet-up website, a Job-portal and a car Hire/Sale .
-     -  And they rely Heavily on React, Nextjs, Chakra UI, Material UI, Strapi, Firebase, MongoDB etc. 
+     -  And they rely Heavily on React, Nextjs, Chakra UI, Material UI, Strapi, Firebase, MongoDB, Firestore, Cloud functions, Recoil API etc. 
 - 🌱  I’m currently learning everything 🤣
 - 🥅  2022 Goals: Contribute more to Open Source projects
 - ⚡  Fun fact: I love to play Football and teach others to code(Folks say I can't shut up about it)
